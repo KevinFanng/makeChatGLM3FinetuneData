@@ -5,5 +5,7 @@
 
 附原始数据Excel格式
 
+可以先照着makeFinetuneJsonFromExcel.py和原始数据格式.xlsx做，再根据实际数据格式修改
+
 具体微调过程见https://zhuanlan.zhihu.com/p/681326841
 
