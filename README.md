@@ -1,2 +1,3 @@
 # makeChatGLM3FinetuneData
 根据ChatGLM3微调数据集格式，用Python程序自制微调数据集
+附原始数据Excel格式
